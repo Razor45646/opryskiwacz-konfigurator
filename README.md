@@ -1,0 +1,2 @@
+# opryskiwacz-konfigurator
+opryskiwacz-konfigurator
